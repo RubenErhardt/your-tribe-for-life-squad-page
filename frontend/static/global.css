@@ -1,3 +1,16 @@
 :root{
    color: black;
 }
+
+body{
+    background-image: url('/images/wallpapersden.com_pokemon-pikachu-art_1920x1080.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    
+}
+
+h1{
+    font-size: 3em;
+}
